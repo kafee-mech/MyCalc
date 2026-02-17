@@ -1,0 +1,5 @@
+{
+  "name": "PrimeCalc",
+  "description": "A precision calculator with advanced scientific functions, history logging, and natural language equation parsing.",
+  "requestFramePermissions": []
+}
